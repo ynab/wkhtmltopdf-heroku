@@ -46,7 +46,7 @@ re-configuring the binary path again in their initializer files.
 ### When using with other gems
 
 You will need to configure the path manually. You can get the path to
-the executable by using this: `Gem.bin_path('wkhtmltopdf-heroku', 'wkhtmltopdf-linux-amd64')`
+the executable by using this: `Gem.bin_path('wkhtmltopdf-heroku', 'wkhtmltopdf_ubuntu_22.04_amd64')`
 
 ## Current wkhtmltopdf version
 

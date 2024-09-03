@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.date = Time.now.strftime('%Y-%m-%d')
   s.description = "This gem provides a wkhtmltopdf binary and configures wisepdf, wicked_pdf, and pdfkit for ruby based applications running in Heroku"
   s.email = "bradphelan@xtargets.com"
-  s.executables = ["wkhtmltopdf-linux-amd64"]
+  s.executables = ["wkhtmltopdf_ubuntu_22.04_amd64"]
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README.mdown"
@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.mdown",
     "VERSION",
-    "bin/wkhtmltopdf-linux-amd64",
+    "bin/wkhtmltopdf_ubuntu_22.04_amd64",
     "lib/wkhtmltopdf-heroku.rb",
     "wkhtmltopdf-heroku.gemspec"
   ]
