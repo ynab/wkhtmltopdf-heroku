@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
 
   s.authors = ["Brad Phelan"]
   s.date = Time.now.strftime('%Y-%m-%d')
-  s.description = "This gem provides a wkhtmltopdf binary and configures wisepdf, wicked_pdf, and pdfkit for ruby based applications running in Heroku"
+  s.description = "This gem provides a wkhtmltopdf binary for Ruby based applications running in Heroku"
   s.email = "bradphelan@xtargets.com"
   s.executables = ["wkhtmltopdf_ubuntu_22.04_amd64"]
   s.extra_rdoc_files = [
