@@ -8,7 +8,7 @@ In your `Gemfile`:
 
 
 ```ruby
-gem "wkhtmltopdf-heroku", "~> 3.0.0", github: "ynab/wkhtmltopdf-heroku", branch: "main"
+gem "wkhtmltopdf-heroku", "~> 3.1.0", github: "ynab/wkhtmltopdf-heroku", tag: "v3.1.0"
 ```
 
 ## Usage
