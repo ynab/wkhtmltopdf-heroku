@@ -8,7 +8,7 @@ In your `Gemfile`:
 
 
 ```ruby
-gem "wkhtmltopdf-heroku", "~> 3.1.0", github: "ynab/wkhtmltopdf-heroku", tag: "v3.1.0"
+gem "wkhtmltopdf-heroku", "~> 2.1.0", github: "ynab/wkhtmltopdf-heroku", tag: "v2.1.0"
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ gem "wkhtmltopdf-heroku", "~> 3.1.0", github: "ynab/wkhtmltopdf-heroku", tag: "v
 ### When using with other gems
 
 You will need to configure the path manually. You can get the path to
-the executable by using this: `Gem.bin_path('wkhtmltopdf-heroku', 'wkhtmltopdf_ubuntu_22.04_amd64')`
+the executable by using this: `Gem.bin_path('wkhtmltopdf-heroku', 'wkhtmltopdf_ubuntu_20.04_amd64')`
 
 ## Current wkhtmltopdf version
 

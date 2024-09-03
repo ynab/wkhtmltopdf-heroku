@@ -1,1 +1,1 @@
-WKHTMLTOPDF_PATH = File.expand_path "../../bin/wkhtmltopdf_ubuntu_22.04_amd64", __FILE__
+WKHTMLTOPDF_PATH = File.expand_path "../../bin/wkhtmltopdf_ubuntu_20.04_amd64", __FILE__
