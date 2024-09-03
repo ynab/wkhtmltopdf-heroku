@@ -1,6 +1,6 @@
 # wkhtmltopdf-heroku
 
-Provides a [wkhtmltopdf](http://wkhtmltopdf.org/) binary for [Heroku](http://www.heroku.com/) 22/24 Stacks.
+Provides a [wkhtmltopdf](http://wkhtmltopdf.org/) binary for [Heroku](http://www.heroku.com/) 20 Stack.
 
 ## Installation
 
@@ -26,8 +26,7 @@ For more details see [CHANGELOG](https://github.com/wkhtmltopdf/wkhtmltopdf/rele
 
 ## Supported Heroku Stacks
 
-- [Heroku-22](https://devcenter.heroku.com/articles/heroku-22-stack)
-- [Heroku-24](https://devcenter.heroku.com/articles/heroku-24-stack)
+- [Heroku-20](https://devcenter.heroku.com/articles/heroku-20-stack)
 
 ## Contributors
 
