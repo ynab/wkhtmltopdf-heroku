@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [3.1.0] - 2024-08-03
 
-Removing built in support for pdfkit wicked_pdf and wisepdf and replacing
+Removing built in support for pdfkit and wisepdf and replacing
 wkhtmltopdf binary with a fresh binary from a trusted source.
 
 ## [3.0.0] - 2024-07-12
