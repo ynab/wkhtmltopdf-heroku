@@ -49,3 +49,5 @@ pkg
 #
 # gem file
 *.gem
+.socket-scans/
+.socket.facts.json
